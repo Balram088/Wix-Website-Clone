@@ -1,4 +1,4 @@
-.purple{
+ .purple{
     color: var(--purple-color);
 }
 
@@ -77,7 +77,7 @@ h2{
 h4{
     font-size: 1rem;
     text-transform: uppercase;
-    color: var(--purple-color);
+        color: var(--purple-color);
     letter-spacing: 1.4px;
 }
 
@@ -232,3 +232,15 @@ input, label {
 .no-outline {
     outline: none !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
